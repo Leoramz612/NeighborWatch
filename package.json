@@ -1,7 +1,7 @@
 {
   "name": "your-app",
   "version": "0.1.0",
-  "homepage": "https://arwamazher.github.io/NeighborhoodWatch/",
+  "homepage": "https://leoramz612.github.io/NeighborWatch/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
