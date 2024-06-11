@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NeighborhoodWatch/static/css/main.df86c268.css",
+    "main.js": "/NeighborhoodWatch/static/js/main.23eee648.js",
+    "static/js/453.885d5217.chunk.js": "/NeighborhoodWatch/static/js/453.885d5217.chunk.js",
+    "index.html": "/NeighborhoodWatch/index.html",
+    "main.df86c268.css.map": "/NeighborhoodWatch/static/css/main.df86c268.css.map",
+    "main.23eee648.js.map": "/NeighborhoodWatch/static/js/main.23eee648.js.map",
+    "453.885d5217.chunk.js.map": "/NeighborhoodWatch/static/js/453.885d5217.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df86c268.css",
+    "static/js/main.23eee648.js"
+  ]
+}
